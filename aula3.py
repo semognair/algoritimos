@@ -1,0 +1,10 @@
+print("qual foi sua nota")
+aluno1 = int(input())
+print("qual foi sua nota")
+aluno2 = int(input())
+print("qual foi sua nota")
+aluno3 = int(input())
+print("qual foi sua nota")
+aluno4 = int(input())
+media = (aluno1+aluno2+aluno3+aluno4) /4
+print(media)
