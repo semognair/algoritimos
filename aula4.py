@@ -1,0 +1,7 @@
+print("Try programiz.pro")
+print("base")
+a1 = int(input())
+print("area")
+a2 = int(input())
+valor = (a1 * a2)
+print("resultado é:", valor)
